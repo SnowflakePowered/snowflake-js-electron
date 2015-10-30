@@ -1,0 +1,29 @@
+{
+  "name": "snowflake-js-electron",
+  "version": "0.2",
+  "description": "Snowflake StandardAjax API Bindings for Electron",
+  "main": "./snowflake.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SnowflakePowered/snowflake.js.git"
+  },
+  "keywords": [
+    "Snowflake",
+    "Emulator",
+    "Frontend"
+  ],
+  "author": "Ronny Chan <ronny6993@gmail.com>",
+  "license": "Apache License, Version 2.0",
+  "bugs": {
+    "url": "https://github.com/SnowflakePowered/snowflake.js/issues"
+  },
+  "homepage": "https://snowflakepowe.red",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-coffee": "^0.13.0"
+  }
+}
