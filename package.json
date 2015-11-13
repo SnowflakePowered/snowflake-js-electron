@@ -1,6 +1,6 @@
 {
   "name": "snowflake-js-electron",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Snowflake StandardAjax API Bindings for Electron",
   "main": "./snowflake.js",
   "scripts": {
